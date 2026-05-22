@@ -1,5 +1,3 @@
-# mac-diagnostics-lab
-
 # Mac Hardware Troubleshooting & Display Diagnostics Lab
 
 ## Overview
