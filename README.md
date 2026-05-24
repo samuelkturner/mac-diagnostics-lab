@@ -44,7 +44,7 @@ The MacBook powered on — keyboard backlight illuminated and the system appeare
 
 Observed and photographed the MacBook powered on with a completely black internal display. Keyboard backlight confirmed the system was receiving power and attempting to boot.
 
-![Black screen symptom](01-black-screen.jpeg)
+![Black screen symptom](01-black-screen.jpg)
 
 -----
 
