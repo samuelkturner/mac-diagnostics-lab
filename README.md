@@ -44,7 +44,7 @@ The MacBook powered on — keyboard backlight illuminated and the system appeare
 
 Observed and photographed the MacBook powered on with a completely black internal display. Keyboard backlight confirmed the system was receiving power and attempting to boot.
 
-![Black screen symptom](images/01-black-screen.jpeg)
+![Black screen symptom](01-black-screen.jpeg)
 
 -----
 
@@ -82,7 +82,7 @@ Connected the MacBook to an external display via Mini DisplayPort to HDMI adapte
 
 **Initial result:** TV displayed **“Weak or no signal”** on HDMI 1 — no video output detected.
 
-![Weak or no signal on HDMI 1](images/02-hdmi-no-signal.jpeg)
+![Weak or no signal on HDMI 1](02-hdmi-no-signal.jpeg)
 
 -----
 
@@ -92,7 +92,7 @@ Switched the HDMI cable to **HDMI 2** on the TV and reseated the adapter connect
 
 **Result:** macOS login screen appeared on the external display — system confirmed fully operational.
 
-![Successful external display — macOS login screen](images/03-successful-display.jpeg)
+![Successful external display — macOS login screen](03-successful-display.jpeg)
 
 **Significance:** This confirmed the MacBook’s logic board, GPU, and operating system were all functioning correctly. The fault was isolated to the internal display hardware.
 
@@ -102,11 +102,11 @@ Switched the HDMI cable to **HDMI 2** on the TV and reseated the adapter connect
 
 After logging in, verified full system functionality by navigating macOS, opening applications, and confirming normal operation.
 
-![macOS desktop fully functional](images/04-macos-desktop.jpeg)
+![macOS desktop fully functional](04-macos-desktop.jpeg)
 
 Checked **About This Mac** to document exact device specifications.
 
-![About This Mac — device specs](images/05-about-this-mac.jpeg)
+![About This Mac — device specs](05-about-this-mac.jpeg)
 
 -----
 
@@ -121,15 +121,15 @@ Ran **Apple Diagnostics** to perform a comprehensive hardware test of all core s
 - Selected language and agreed to diagnostic terms
 - Allowed the diagnostic to complete (~3 minutes)
 
-![Diagnostics language selection](images/06-diagnostics-language.jpeg)
+![Diagnostics language selection](06-diagnostics-language.jpeg)
 
-![Run Diagnostics agreement screen](images/07-diagnostics-agreement.jpeg)
+![Run Diagnostics agreement screen](07-diagnostics-agreement.jpeg)
 
-![Checking your Mac — progress bar](images/08-diagnostics-running.jpeg)
+![Checking your Mac — progress bar](08-diagnostics-running.jpeg)
 
 **Result:** ✅ **No issues found. Reference Code: ADP000**
 
-![Apple Diagnostics — No issues found ADP000](images/09-diagnostics-result.jpeg)
+![Apple Diagnostics — No issues found ADP000](09-diagnostics-results.jpeg)
 
 **Significance:** ADP000 confirms all tested hardware components passed. The black screen fault is definitively isolated to the internal display panel or display flex cable — not the logic board, GPU, RAM, or storage.
 
