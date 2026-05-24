@@ -129,7 +129,7 @@ Ran **Apple Diagnostics** to perform a comprehensive hardware test of all core s
 
 **Result:** ✅ **No issues found. Reference Code: ADP000**
 
-![Apple Diagnostics — No issues found ADP000](09-diagnostics-results.jpeg)
+![Apple Diagnostics — No issues found ADP000](09-diagnostics-result.jpeg)
 
 **Significance:** ADP000 confirms all tested hardware components passed. The black screen fault is definitively isolated to the internal display panel or display flex cable — not the logic board, GPU, RAM, or storage.
 
