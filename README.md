@@ -170,7 +170,7 @@ Ran **Apple Diagnostics** to perform a comprehensive hardware test of all core s
 
 ## Project Media
 
-📹 [Watch the full troubleshooting walkthrough](#) *(YouTube link — coming soon)*
+📹 [Watch the full troubleshooting walkthrough](#) *(https://youtu.be/O2fswLUSTfQ?is=i4KtEyxC27f_i7an)*
 
 -----
 
