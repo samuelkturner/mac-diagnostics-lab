@@ -1,4 +1,4 @@
-# Mac Hardware Troubleshooting & Display Diagnostics Lab
+# Macbook Pro Hardware Diagnostics & Display Repair Lab
 
 ## Overview
 
